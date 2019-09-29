@@ -6,6 +6,8 @@ En este tutorial se podrá ver cómo se crea y despliega:
 * [Una aplicación desarrollada en Sprign con gradle y conectada a una base de datos RDS postgres SQL](#EC2)
 * [Una base de datos en RDS con postgres SQL](#RDS)
 
+también podrá encontrar un video tutorial en el siguiente link: [S3-EC2-RDS](https://youtu.be/8AayMFtAGkM)
+
 ## S3
 
 En esta primera parte vamos a entrar a la consola de aws y luego en la parte de servicios iremos a Storage y señalalemos S3 
