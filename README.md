@@ -6,7 +6,12 @@ En este tutorial se podrá ver cómo se crea y despliega:
 * [Una aplicación desarrollada en Sprign con gradle y conectada a una base de datos RDS postgres SQL](#EC2)
 * [Una base de datos en RDS con postgres SQL](#RDS)
 
-también podrá encontrar un video tutorial en el siguiente link: [S3-EC2-RDS](https://youtu.be/8AayMFtAGkM)
+también podrá encontrar un video tutorial en el siguiente link: [S3-EC2-RDS](https://youtu.be/8AayMFtAGkM), además para encontrar más detalle de como se realiza el calculo para los costos de los recursos usted podrá consultar los siguientes enlaces:
+
+* [EC2](https://aws.amazon.com/ec2/pricing/)
+* [S3](https://aws.amazon.com/s3/pricing/)
+* [VPC](https://aws.amazon.com/vpc/pricing/)
+* [RDS](https://aws.amazon.com/rds/pricing/)
 
 ## S3
 
